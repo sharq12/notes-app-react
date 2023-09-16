@@ -1,0 +1,16 @@
+.logo-img {
+    width: 3rem ;
+    height: 3rem;
+    border-radius: 50%;
+    border: 1px solid  ;
+}
+
+.h1 {
+    color: var(--primary-text-color);
+}
+
+.header {
+     border-bottom: 1px solid #e2e8f0;
+     /* background-color: #94a3b8; */
+}
+
