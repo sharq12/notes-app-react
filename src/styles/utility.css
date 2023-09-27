@@ -55,6 +55,9 @@ body {
 .justify-start {
     justify-content: flex-start;
 }
+.space-between {
+    justify-content : space-between;
+}
 
 .wrap {
     flex-wrap: wrap;
